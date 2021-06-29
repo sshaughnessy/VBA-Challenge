@@ -3,8 +3,8 @@
 VBA homework for NU Data Science Bootcamp
 
 Utilize VBA to:
-  output ticker symbol from data
-  calculate annual delta ($) of stock closing price
-  calculate annual delta (%) of stock closing price
-  output total volume
-  use conditional formatting to highlight results
+  1. output ticker symbol from data
+  2. calculate annual delta ($) of stock closing price
+  3. calculate annual delta (%) of stock closing price
+  4. output total volume
+  5. use conditional formatting to highlight results
