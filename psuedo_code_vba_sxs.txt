@@ -1,0 +1,14 @@
+loop thru data
+sum volume as you go
+when value R+1 doesn't match r stop
+
+pull the ticker to the summary row
+pull sum of volume into the summary row
+
+
+
+store first opening price into stock_open variable
+store last closing price into stock_close variable
+
+pull (stock_close - stock_open) into summary row
+pull ((stock_close/stock_open)-1) into summary row
